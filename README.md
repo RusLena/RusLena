@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RusLena
-- 👀 Passionate about fitness, exploring new destinations, playing tennis and table tennis, and indulging in art and painting.
-- 🌱 Recently graduated from edX Skills Bootcamp in Front-End Web Development, equipped with skills in CSS, HTML5, JavaScript, React.js, and more.
+- 🌱 I graduated from the edX Skills Bootcamp in Front-End Web Development in May 2024, equipped with skills in CSS, HTML5, JavaScript, React.js, and more.
+- ⚒  In September 2024, I completed a 16-week internship program with Virtual Internships, where I gained practical experience in web development.
 - 💼 Open to collaborating on exciting web development projects to further enhance my skills and contribute to innovative solutions.
+- 😎 Passionate about fitness, ping pong🏓, exploring new destinations ✈, art and painting🎨.
 - 📫 How to reach me: 📧 my.mcr@outlook.com 
 
 <!---
