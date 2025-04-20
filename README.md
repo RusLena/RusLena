@@ -3,7 +3,7 @@
 - ⚒  In September 2024, I completed a 16-week internship program with Virtual Internships, where I gained practical experience in web development.
 - 💼 Open to collaborating on exciting web development projects to further enhance my skills and contribute to innovative solutions.
 - 😎 Passionate about fitness, ping pong🏓, exploring new destinations ✈, art and painting🎨.
-- 📫 
+- 📫 Contact me: https://darling-trifle-9b5f89.netlify.app/, http://linkedin.com/in/elena-g-946b2b334
 
 <!---
 RusLena/RusLena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
